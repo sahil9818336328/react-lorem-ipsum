@@ -1,0 +1,4 @@
+- lorem ipsum generator
+- render no. of paragraphs based on input value, on click
+- min max to limit going above or below certain no. of paragraphs
+- nanoid
